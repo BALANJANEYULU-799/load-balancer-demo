@@ -1,0 +1,15 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Node.js Hello World Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["hello", "world", "server"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
